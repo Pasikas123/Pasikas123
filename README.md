@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasikas123&label=Profile%20views&color=0e75b6&style=flat" alt="pasikas123" /> </p>
 
 <h3 align="left">Connect with me:</h3>
+🔗https://www.linkedin.com/in/donatasdailide/
 <p align="left">
 </p>
 
